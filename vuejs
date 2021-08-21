@@ -1,0 +1,16 @@
+-computed: used whwn changing the presentation of the data, cant pass in value
+-methods: used when changing the data, can pass in value
+- 2 ways binding: bind du lieu 2 chieu
+- vue object: property chua o trong data(){}
+- v-model : gan du lieu input voi property, phu thuoc vao kieu du lieu element(text,number,checkbox....)
+- lifcycle: cong doi cua component trong vue
+- binding:
+ + value binding : {{}}
+ + property binding: v-bind: hay :
+- bat su kien : v-on
+ + prevent default: huy bo event mac dinh cua element di
+- ref : anh xa (nhu dung voi name hay id trong js)
+- methods: ham cua vue
+- watch: theo doi su thay doi cua data, dat ten giong data
+- hooks: mounted(): chay dau tien, dung de goi api.....
+- props: du lieu day tu component cha => component con, dung mang ten cac props
